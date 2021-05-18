@@ -111,6 +111,7 @@ after installationand activation of the pluggin weglot (will appear on the dashb
 6.Save Changes -> the default flag with name language button will be now available on the website.
 7.To make changes in the Language button design-> can make use of the options 
 8.also Use the Language button positon to add in the ((menu or as a widget or as with a shortcode or in the sourcecode)).
+9.On the menu you can change the language.
 
 
 Polylang,Polylang connet for elementor:
@@ -126,22 +127,85 @@ after the installation and activation of this pluggin (Language menu will appear
 9.check the required boxes.
 10.go to home page + edit page+add new page+observe the permalink
 11.for the header ->templates+header+add the language+edit using elementor+polylang switcher+ 
+
+Pluggins:
+Weglot
+Polylang
+Polylang connect for  elementor
+GTranslate
+Google Translate 
+Translatepress
+Conveythis
 REFERENCE
 ---------
-
+weglot
+-------
+https://youtu.be/P3XZwyezkSI
+https://youtu.be/TggW-aeq5uE
+https://www.elegantthemes.com/blog/divi-resources/how-to-translate-your-divi-website-with-weglot
 https://weglot.com/wpml-language-switcher/
+
+
 https://youtu.be/IkUo7IE5ZRI
+GTranslate
+----------
+https://youtu.be/9mtC3LFBErY (requires google translate)
+Translatepress:
+---------------
+https://youtu.be/V80H5oiI07c
+https://youtu.be/qQj5lHzC53k  
+Conveythis
+----------
+https://youtu.be/tmnrJOjhAFw
+
+
+
+https://presscustomizr.com/snippet/add-polylang-dropdown-navbar-widget/#:~:text=Go%20to%20Appearance%20%3E%20Widgets%20and,Click%20%E2%80%9CSave%E2%80%9D.
+
+url:wpcrafter.com/tranlatepress
+-feattures
+-deepL
+-
 
 ------------------------------------------------------------------------
-DATE:
-------------------------------------------------------------------------
+DATE:14/5/2021
+----------------------------------------------------------------Translate press:
+this is used to translate the pages 
+1.install the tranlatepress pluggin from the pluggins option.
+2.choose the language option from settings 
+3.the default and the other from all languages part.
+4.save changes.
+5.Use the language swifter option from below :make required chanhges(flags without flags etc).
+6.floating language selector (uncheck).
+7.the options also consists of the translate sittings (top of the page)
+8.using which we  can convert each string of the existing page.
 
 
-
-
-
-
-
+---------------------------------------------------------------
+DATE:15/5/2021,16/5/2021
+---------------------------------------------------------------
+Tried polylang and used the language switcher option in the appearance->Menu
+created the diff menu for each language.
+issue: menu did not show up.(menu consisted of the language switcher and a single page called introduction)
+---------------------------------------------------------------
+DATE:17/5/2021,18/5/2021
+---------------------------------------------------------------
+GTranslate
+----------
+1.Install Translate with GTranlate Pluggin and activate it.
+2.Find gtranlate in the settings section.
+3.Make necessary changes in the widget options
+4.widget look ->dropdown
+5.Translate from
+6.choose the language shown in native language names
+7.check the languages in the languages section 
+8.change the order of the languages as per convience.
+URL
+----
+https://youtu.be/wA38D5FO27Q
+---------------------------------------------------------------
+DATE:19/5/2021
+---------------------------------------------------------------
 
 
 
